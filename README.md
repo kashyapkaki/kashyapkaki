@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashyapkaki
 - 👀 I’m interested in freelance projects
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular PWA
 - 💞️ I’m looking to collaborate on web app development
 - 📫 React me at kashyapkaki@live.com
 
