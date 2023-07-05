@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kashyapkaki
 - 👀 I’m interested in freelance projects
-- 🌱 I’m currently learning Angular PWA
+- 🌱 I’m expertise in frontend frameworks
 - 💞️ I’m looking to collaborate on web app development
-- 📫 React me at kashyapkaki@live.com
+- 📫 Reach me at kashyapkaki@live.com
 
 <!---
 kashyapkaki/kashyapkaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
